@@ -1,0 +1,37 @@
+/**
+ * Custom CSS for CryptoWorks documentation.
+ * Crypto-themed amber/gold color palette.
+ */
+
+:root {
+  --ifm-color-primary: #c87f24;
+  --ifm-color-primary-dark: #b4721f;
+  --ifm-color-primary-darker: #aa6b1e;
+  --ifm-color-primary-darkest: #8c5818;
+  --ifm-color-primary-light: #d68d2f;
+  --ifm-color-primary-lighter: #d99438;
+  --ifm-color-primary-lightest: #e0a555;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #e6a130;
+  --ifm-color-primary-dark: #d8922a;
+  --ifm-color-primary-darker: #cd8a27;
+  --ifm-color-primary-darkest: #a97220;
+  --ifm-color-primary-light: #e9ae4a;
+  --ifm-color-primary-lighter: #ebb557;
+  --ifm-color-primary-lightest: #f0c678;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.hero--primary {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  color: #ffffff;
+}
+
+[data-theme='light'] .hero--primary {
+  background: linear-gradient(135deg, #f8f0e3 0%, #eee0c9 50%, #ddc9a3 100%);
+  color: #1a1a2e;
+}

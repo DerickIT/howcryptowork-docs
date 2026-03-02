@@ -1,0 +1,25 @@
+{
+    "sidebar.docsSidebar.category.Blockchain Foundations": {
+        "message": "区块链基础",
+        "description": "The label for category Blockchain Foundations in sidebar docsSidebar"
+    },
+    "sidebar.docsSidebar.category.Infrastructure & Security": {
+        "message": "基础设施与安全",
+        "description": "The label for category Infrastructure & Security in sidebar docsSidebar"
+    },
+    "sidebar.docsSidebar.category.DeFi & Markets": {
+        "message": "DeFi 与市场",
+        "description": "The label for category DeFi & Markets in sidebar docsSidebar"
+    },
+    "sidebar.docsSidebar.category.Digital Assets & Governance": {
+        "message": "数字资产与治理",
+        "description": "The label for category Digital Assets & Governance in sidebar docsSidebar"
+    },
+    "sidebar.docsSidebar.category.Emerging Frontiers": {
+        "message": "前沿探索",
+        "description": "The label for category Emerging Frontiers in sidebar docsSidebar"
+    },
+    "sidebar.docsSidebar.doc.Preface: Why This Matters": {
+        "message": "前言：为什么这很重要"
+    }
+}

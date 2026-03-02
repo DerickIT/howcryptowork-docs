@@ -1,0 +1,26 @@
+{
+    "homepage.features.foundations.title": {
+        "message": "区块链基础",
+        "description": "Title of the Blockchain Foundations feature on the homepage"
+    },
+    "homepage.features.foundations.description": {
+        "message": "深入解析比特币、以太坊、Solana 等 Layer 1 区块链——涵盖共识机制、密码学原理与网络架构。",
+        "description": "Description of the Blockchain Foundations feature"
+    },
+    "homepage.features.defi.title": {
+        "message": "DeFi 与市场基础设施",
+        "description": "Title of the DeFi & Market Infrastructure feature on the homepage"
+    },
+    "homepage.features.defi.description": {
+        "message": "理解去中心化金融、市场结构、MEV、稳定币，以及支撑现代加密市场的基础设施。",
+        "description": "Description of the DeFi & Market Infrastructure feature"
+    },
+    "homepage.features.frontiers.title": {
+        "message": "前沿探索",
+        "description": "Title of the Emerging Frontiers feature on the homepage"
+    },
+    "homepage.features.frontiers.description": {
+        "message": "探索治理机制、DePIN、抗量子计算、预测市场等前沿创新，洞察加密行业的未来趋势。",
+        "description": "Description of the Emerging Frontiers feature"
+    }
+}

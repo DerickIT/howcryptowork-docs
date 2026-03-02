@@ -1,0 +1,46 @@
+{
+    "link.title.Documentation": {
+        "message": "文档",
+        "description": "The title of the footer links column with title=Documentation"
+    },
+    "link.title.Topics": {
+        "message": "主题",
+        "description": "The title of the footer links column with title=Topics"
+    },
+    "link.title.More": {
+        "message": "更多",
+        "description": "The title of the footer links column with title=More"
+    },
+    "link.item.label.Preface": {
+        "message": "前言",
+        "description": "The label of footer link with label=Preface"
+    },
+    "link.item.label.Bitcoin": {
+        "message": "比特币",
+        "description": "The label of footer link with label=Bitcoin"
+    },
+    "link.item.label.Ethereum": {
+        "message": "以太坊",
+        "description": "The label of footer link with label=Ethereum"
+    },
+    "link.item.label.DeFi": {
+        "message": "DeFi",
+        "description": "The label of footer link with label=DeFi"
+    },
+    "link.item.label.Stablecoins & RWAs": {
+        "message": "稳定币与 RWA",
+        "description": "The label of footer link with label=Stablecoins & RWAs"
+    },
+    "link.item.label.Governance": {
+        "message": "治理",
+        "description": "The label of footer link with label=Governance"
+    },
+    "link.item.label.GitHub": {
+        "message": "GitHub",
+        "description": "The label of footer link with label=GitHub"
+    },
+    "copyright": {
+        "message": "Copyright © 2026 CryptoWorks. 基于 Docusaurus 构建。",
+        "description": "The footer copyright"
+    }
+}
